@@ -1,3 +1,4 @@
+import * as bootstrap from 'bootstrap';
 import "../styles/aplications.scss";
 
 function MyApp({ Component, pageProps }) {
